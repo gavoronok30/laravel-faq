@@ -60,7 +60,7 @@ Eloquent models for use. Used to retrieve or save FAQ and categories
 ```
 
 The user model will be used as an example `$user`, but you can connect it to any other model.
-You can use service `\Crow\Faq\Helpers\FaqHelper` or helper `\Crow\Faq\Services\FaqService`.
+You can use helper `\Crow\Faq\Helpers\FaqHelper` or service `\Crow\Faq\Services\FaqService`.
 
 ### Category
 
